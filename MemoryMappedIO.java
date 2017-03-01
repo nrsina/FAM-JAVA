@@ -4,6 +4,7 @@ import java.nio.channels.FileChannel;
 
 /**
  * Created by Sina on 3/1/2017.
+ * A simple java code for FAM
  */
 public class MemoryMappedIO {
     static final boolean MASTER = true; //true for master, false for slaves
